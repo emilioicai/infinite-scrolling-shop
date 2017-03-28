@@ -31,6 +31,12 @@ Start the server with this command:
 npm start
 ```
 
+Run Tests:
+
+```
+npm run test
+```
+
 The server should be available at http://localhost:8000
 
 
